@@ -8,19 +8,19 @@ global.video = "https://telegra.ph/file/204481823350f368c1826.mp4";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "kkeizzah@gmail.com";
-global.location = "Migori,Kenya";
+global.location = "Lusaka,Zambia";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://wasitech10:WASImd##12@cluster0.eclhxiz.mongodb.net/?retryWrites=true&w=majority";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lusaka";
 global.github = process.env.GITHUB || "https://github.com/Keithkeizzah/KEITH-MD";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ad00848dda6847a67ffb0.jpg";
-global.devs = "254748387615";
-global.sudo = process.env.SUDO || "254748387615";
-global.owner = process.env.OWNER_NUMBER || "254748387615";
+global.devs = "260776642930";
+global.sudo = process.env.SUDO || "260760431115";
+global.owner = process.env.OWNER_NUMBER || "260776642930";
 global.style = process.env.STYLE || "5";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -50,10 +50,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "3.0.0",
   caption: process.env.CAPTION || "𝐌𝐈𝐆𝐇𝐓𝐘 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
-  author: process.env.PACK_AUTHER || "Keith Tech",
-  packname: process.env.PACK_NAME || "Keith-Md♥️",
-  botname: process.env.BOT_NAME || "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇",
+  author: process.env.PACK_AUTHER || "Nipsy🖤",
+  packname: process.env.PACK_NAME || "created by",
+  botname: process.env.BOT_NAME || "La Flame",
+  ownername: process.env.OWNER_NAME || "Nipsy🍒💋🫶🏾",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
